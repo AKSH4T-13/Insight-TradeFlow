@@ -1,0 +1,9 @@
+streamlit
+pandas>=2.2,<3
+plotly
+python-dotenv
+langgraph
+langchain>=1,<2
+langchain-groq
+pydantic>=2,<3
+pyspark>=4,<5
